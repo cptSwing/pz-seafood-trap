@@ -1,0 +1,6 @@
+version=1
+title=SeafoodTrap
+description=Catch vanilla Crayfish, Shrimp, Oysters (Mussels) with fishing nets
+description=
+tags="Build 41"
+visibility=private
