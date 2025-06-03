@@ -1,7 +1,7 @@
 # pz-seafood-trap
 A mod which adds?/replaces? a trap to catch Crayfish, Shrimp, Oysters (Mussels) to Project Zomboid
 
-Based on 'enhence fishing net [...]'
+Based on "Fishnet enhance for vanilla seafood（rebalance）原版渔网增强" (https://steamcommunity.com/sharedfiles/filedetails/?id=2831806401) 
 
 - Removed lobster, squid as they are salt-water animals. Keeping Oyster as there are freshwater mussels in Kentucky's waterways AFAIK, and willing to let that one slide.
 - Bring back traps breaking, though much sturdier than vanilla fishing net
