@@ -1,5 +1,5 @@
 # pz-seafood-trap
-A mod which adds?/replaces? a trap to catch Crayfish, Shrimp, Oysters (Mussels) to Project Zomboid
+A mod which ~~adds~~ replaces fishing net in order to also catch Crayfish, Shrimp, Oysters (Mussels) to Project Zomboid
 
 Based on [Fishnet enhance for vanilla seafood（rebalance）原版渔网增强](https://steamcommunity.com/sharedfiles/filedetails/?id=2831806401)
 
